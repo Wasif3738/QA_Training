@@ -8,8 +8,8 @@ Each folder represents a focused topic or project, structured with clean code an
 
 ## 📁 Projects & Practice Modules
 
-| Folder Name                             | Description                                                                 |
-|-----------------------------------------|-----------------------------------------------------------------------------|
+| Repository Name                        | Description                                                                |
+|----------------------------------------|----------------------------------------------------------------------------|
 | `wikipedia download test`              | Automates PDF download of a Wikipedia page using Selenium + TestNG         |
 | `accuweather-automation-aquality`      | Uses Aquality Framework to test AccuWeather features with POM structure    |
 | `Wikipedia test with BDD(cucumber)`    | Implements BDD using Cucumber to test Wikipedia UI flows                   |
