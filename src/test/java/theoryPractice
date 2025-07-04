@@ -1,0 +1,27 @@
+What is BDD(Behaviour driven development)?
+BDD  methodology in which an application is documented and designed around the behaviour a user expects to experience when interacting with it.
+BDD is all about collaboration between teams. Specifically collaboration between the business team and the technical teams.
+Builds a common understanding on the behavior of the application.
+Generates common documentation that can be understood by all teams & stakeholders.
+
+User Story:
+A user story is an informal, general explanation of a software feature written from the perspective of the end user
+For any new enhancement, feature, change user story is created.
+1. It is discussed among teams.
+2. Conversation & discussion on how the system should behave.
+3. Examples are created, discussed, agreed and approved.
+4. Examples are documented in a way that can be developed & tested with automation.
+5. Coding phase - implement behaviour as per the documented examples.
+
+3 practices of BDD:
+1.Discovery-Agreed behaviour of the system: explore and & discuss on how the system should behave
+2.Formulation-Documented Examples(Acceptance Tests): create concrete examples that can be automated
+3.Automation-Code implementation & automation tests: Coding as per the documented examples to implement the agreed behaviour of the system. create automation tests taking one example at a time to guide development
+
+Cucumber:
+Cucumber is a tool that facilitates BDD
+BDD practitioners may use cucumber to automate their documentation
+Cucumber is a tool that understands your documentation and turns it into automated tests.
+
+Gherkin:
+Gherkin is a human-readable language for describing the behaviour of a system.
